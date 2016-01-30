@@ -14,7 +14,8 @@
  * @modemail    contact@achinthagunasekara.com
  */
 
-package simplejavacalculator;
+//this is a commment from LEno sit of github
+ package simplejavacalculator;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
