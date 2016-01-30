@@ -14,13 +14,9 @@
  * @modemail    contact@achinthagunasekara.com
  */
 
-<<<<<<< HEAD
-package simplejavacalculator;
-//come on conflict
-=======
+
 //this is a commment from LEno sit of github
  package simplejavacalculator;
->>>>>>> 0680de0218bad18cf57e353bbd5a90b6d727cfcb
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
